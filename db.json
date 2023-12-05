@@ -25,11 +25,11 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+      "name": "Borsec",
+      "description": "Apa",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      "photo_url": "file:///C:/Users/User/Pictures/l.img"
     },
     {
       "id": 2,
