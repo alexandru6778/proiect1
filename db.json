@@ -40,7 +40,7 @@
     },
     {
       "id": 3,
-      "name": "mercedes",
+      "name": "Mercedes",
       "description": "companie de masini",
       "price": 300,
       "author_id": 2,
@@ -48,7 +48,7 @@
     },
     {
       "id": 4,
-      "name": "nike",
+      "name": "Nike",
       "description": "Companie de haine",
       "price": 92,
       "author_id": 1,
@@ -56,7 +56,7 @@
     },
     {
       "id": 5,
-      "name": "tema pentru acasa",
+      "name": "Tema pentru acasa",
       "description": "Carte",
       "price": 180,
       "author_id": 3,
@@ -64,8 +64,8 @@
     },
     {
       "id": 6,
-      "name": "samsung",
-      "description": ".tehnica",
+      "name": "Samsung",
+      "description": "tehnica",
       "price": 300,
       "author_id": 2,
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
