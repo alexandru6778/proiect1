@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Moldova",
+      "name": "Andriy",
       "sirname": "Moskalenko",
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
       "balance": 1500
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "name": "Russia",
+      "name": "Arduino UNO",
       "description": "Brand new and high quality.",
       "price": 180,
       "author_id": 3,
