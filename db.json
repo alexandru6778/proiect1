@@ -70,6 +70,13 @@
       "price": 40,
       "author_id": 2,
       "photo_url": "https://www.kap7.com/cdn/shop/products/Black_Heavy_size2__96464_5000x.jpg?v=1647309905"
+    },{
+      "id": 7,
+      "name": "WaterPolo Size 1",
+      "description": "SIZE 1 BRAZIL MINI WATER POLO BALL",
+      "price": 16,
+      "author_id": 1,
+      "photo_url": "https://www.kap7.com/cdn/shop/files/Brazil1_5000x.png?v=1684256647"
     }
   ]
 }
