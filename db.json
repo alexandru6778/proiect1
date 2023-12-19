@@ -25,7 +25,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Water Polo ball Size 1",
+      "name": "WaterPolo ball Size 1",
       "description": "SIZE 1 BRAZIL MINI WATER POLO BALL",
       "price": 16,
       "author_id": 1,
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "name": "Water Polo ball  Size 2",
+      "name": "WaterPolo ball  Size 2",
       "description": "KAP7 2022 LEN SPLIT EUROPEAN CHAMPIONSHIPS WATER POLO BALL - SIZE 2",
       "price": 35,
       "author_id": 3,
@@ -41,7 +41,7 @@
     },
     {
       "id": 3,
-      "name": "Water Polo ball Size 3",
+      "name": "WaterPolo ball Size 3",
       "description": "KAP7 SOCAL HYDROGRIP WATER POLO BALL - SIZE 3",
       "price": 40,
       "author_id": 2,
@@ -49,7 +49,7 @@
     },
     {
       "id": 4,
-      "name": "Water Polo ball Size 4",
+      "name": "WaterPolo ball Size 4",
       "description": "KAP7 YELLOW HYDROGRIP WATER POLO BALL - SIZE 4",
       "price": 35,
       "author_id": 1,
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "name": "Water Polo ball Size 5",
+      "name": "WaterPolo ball Size 5",
       "description": "KAP7 RED/YELLOW HYDROGRIP WATER POLO BALL - SIZE 5",
       "price": 50,
       "author_id": 3,
@@ -65,7 +65,7 @@
     },
     {
       "id": 6,
-      "name": "Water Polo ball size 1 Weight BALL",
+      "name": "WaterPolo Weight BALL",
       "description": "KAP7 WATER POLO HEAVY TRAINER BALL: 10+ ",
       "price": 40,
       "author_id": 2,
